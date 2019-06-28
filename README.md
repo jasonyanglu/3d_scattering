@@ -2,7 +2,7 @@
 
 Matlab code of 3d scattering
 
-Author: [Yang Lu](https://lylylytc.github.io/)
+Author: [Yang Lu](https://jasonyanglu.github.io/)
 
 Contact: lylylytc@gmail.com
 
